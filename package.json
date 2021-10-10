@@ -1,6 +1,7 @@
 {
   "name": "tutypeapp--4",
   "yutube": "https://youtu.be/zLyeWSfTMa8",
+  "key": "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",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
